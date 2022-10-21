@@ -12,7 +12,7 @@ Basic message function: `unitree_legged_msgs`
 The interface between ROS and real robot: `unitree_legged_real`
 
 ## Environment
-We recommand users to run this package in Ubuntu 18.04 and ROS melodic environment
+We recommend users to run this package in Ubuntu 18.04 and ROS melodic environment
 
 ## Dependencies
 * [unitree_legged_sdk](https://github.com/unitreerobotics/unitree_legged_sdk/releases)
